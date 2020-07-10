@@ -1,2 +1,2 @@
-let hello = "Hello!";
+var hello = "Hello!!";
 alert(hello);
