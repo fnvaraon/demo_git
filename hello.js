@@ -1,4 +1,4 @@
-var hello = "Hello";
+var hello = "Hello chère";
 var coucou = "coucou!!!";
 var personne = {
     id : 01,
