@@ -1,2 +1,2 @@
-alert("Hello!");
-alert("bonjour!");
+let hello = "Hello!";
+alert(hello);
