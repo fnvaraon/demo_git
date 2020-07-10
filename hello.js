@@ -1,2 +1,3 @@
 alert("Hello!");
-alert("bonjour!");
+alert("bonjour!!");
+alert("coucou!!!");
